@@ -10,7 +10,7 @@
 
     {{-- <title>{{ config('app.name', 'Laravel') }}</title> --}}
     <link rel="shortcut icon" href="{{ asset('public/admin/dist/img/nagez-final-22.png') }}" type="image/x-icon">
-    <title>Najez Soft </title>
+    <title>kidsCare</title>
     <!-- Scripts -->
     <script src="{{ asset('public/js/app.js') }}" defer></script>
 
